@@ -1,0 +1,7 @@
+<resources>
+    <!-- App theme with no action bar and light blue background -->
+    <style name="Theme.QuickTimer" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/light_blue</item>
+        <item name="android:windowBackground">@color/light_blue</item>
+    </style>
+</resources>
